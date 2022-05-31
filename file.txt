@@ -1,3 +1,0 @@
- pathspec 'first' did not match any files
- pathspec 'first' did not match any files
- pathspec 'first' did not match any files
